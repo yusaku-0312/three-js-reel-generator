@@ -1,0 +1,46 @@
+{
+  "title": "紅茶の雑学 パラダイスティー",
+  "voice_id": "3JDquces8E8bkmvbh6Bc",
+  "voice_name": "Otani - Inviting, Clear and Measured",
+  "model_id": "eleven_v4",
+  "tag": "[narrative]",
+  "speed": 1.1,
+  "note": "Each chunk = [display, tts]. Display is the subtitle (<=11 chars); tts is the text sent to ElevenLabs (the line is prefixed with the tag). Facts: roomie.jp 2025-10 / oggi.jp (UCC long seller over 30 years, the iced tea of a family-restaurant drink bar, black tea + safflower, cornflower, rose, marigold, unsweetened, zero calorie, iced = crisp and floral, hot = black-tea body); ingredient list per retail page: black tea (Sri Lanka, India), marigold, rose, cornflower, safflower, flavouring, vitamin C — no fruit.",
+  "scenes": [
+    {
+      "id": "hook",
+      "lines": [
+        [["南国の果物みたいな", "南国の果物みたいな"], ["香りがする", "香りがする、"], ["アイスティー。", "アイスティー。"]],
+        [["でも実は", "でも実は、"], ["果物はひとつも", "果物はひとつも"], ["入っていないんです。", "入っていないんです。"]]
+      ]
+    },
+    {
+      "id": "name",
+      "lines": [
+        [["その名も", "その名も、"], ["パラダイスティー。", "パラダイスティー。"]],
+        [["ファミレスの", "ファミレスの"], ["ドリンクバーでも", "ドリンクバーでも"], ["人気の", "人気の、"], ["30年以上続く", "三十年以上続く"], ["ロングセラーです。", "ロングセラーです。"]]
+      ]
+    },
+    {
+      "id": "flowers",
+      "lines": [
+        [["香りの正体は", "香りの正体は、"], ["紅茶にブレンドされた", "紅茶にブレンドされた、"], ["4種類の花。", "四種類の花。"]],
+        [["青いコーンフラワー", "青いコーンフラワー、"], ["オレンジの", "オレンジの"], ["マリーゴールド", "マリーゴールド、"], ["赤いサフラワー", "赤いサフラワー、"], ["そしてローズ。", "そしてローズ。"]],
+        [["花びらと香りづけが", "花びらと香りづけが"], ["重なって", "重なって、"], ["楽園のような", "楽園のような"], ["華やかな香りに", "華やかな香りに"], ["なるんです。", "なるんです。"]]
+      ]
+    },
+    {
+      "id": "points",
+      "lines": [
+        [["しかも砂糖を使わない", "しかも砂糖を使わない"], ["無糖で", "無糖で、"], ["カロリーゼロ。", "カロリーゼロ。"]],
+        [["冷やすと", "冷やすと"], ["すっきり爽やか。", "すっきり爽やか。"], ["ホットにすると", "ホットにすると"], ["紅茶のコクが", "紅茶のコクが"], ["際立ちます。", "際立ちます。"]]
+      ]
+    },
+    {
+      "id": "outro",
+      "lines": [
+        [["次に見かけたら", "次に見かけたら、"], ["まず香りから", "まず香りから"], ["楽しんでみて", "楽しんでみて"], ["ください。", "ください。"]]
+      ]
+    }
+  ]
+}

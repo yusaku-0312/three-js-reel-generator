@@ -1,0 +1,233 @@
+{
+  "title": "紅茶の雑学 なぜ「紅」茶なのか",
+  "voice_name": "Otani - Inviting, Clear and Measured",
+  "voice_id": "3JDquces8E8bkmvbh6Bc",
+  "model_id": "eleven_v4",
+  "model_name": "Eleven v4",
+  "tag": "[narrative]",
+  "speed": 1.2,
+  "note": "紅茶の雑学: the Japanese name 紅茶 comes from the colour of the brewed liquor (水色), not the leaves; English 'black tea' is named after the dark leaves; in China 黒茶 is a different, post-fermented tea (プーアル茶). Red pigment = theaflavins from oxidation (発酵) of catechins. Readings: 紅→くれない, 茶葉→ちゃば, 淹れた→いれた, 水色→すいしょく, 黒茶→くろちゃ (こくちゃ was heard as 緑茶 by Scribe in both take-1/2 clips), 紅色→べにいろ.",
+  "sources": [
+    "Japan Tea Association (via furunavi.jp/discovery/?p=7785, macaro-ni.jp/27274): the Japanese name 紅茶 derives from the 水色 (liquor colour), not the leaf colour; English 'black tea' from the dark leaves",
+    "macaro-ni.jp/143273, serai.jp/?p=145970: 紅茶 = fully fermented tea, liquor red-brown; brewed in soft water the liquor turns a clear orange-red",
+    "jsbba.or.jp/wp-content/uploads/file/39-40(1).pdf, nagasaki-u.ac.jp 175 paper: theaflavins are the bright red pigments of black tea, formed when catechins are enzymatically oxidised after rolling",
+    "kotobank.jp/word/中国茶, allabout.co.jp/gm/gc/403129: Chinese six tea classes 緑・白・黄・青・紅・黒; 黒茶 (dark tea) is microbially post-fermented, e.g. プーアル茶; 紅茶 = black tea",
+    "Naming by 多田元吉 is only a tradition (no primary source) — left out of the script"
+  ],
+  "scenes": [
+    {
+      "id": "hook",
+      "lines": [
+        [
+          [
+            "どちらかというと",
+            "どちらかというと、"
+          ],
+          [
+            "茶色の紅茶ですが",
+            "ちゃいろの紅茶ですが、"
+          ],
+          [
+            "「紅」という漢字を",
+            "くれない、という漢字を"
+          ],
+          [
+            "使うのには",
+            "つかうのには、"
+          ],
+          [
+            "理由があります。",
+            "理由があります。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "name",
+      "lines": [
+        [
+          [
+            "紅茶という名前は",
+            "紅茶という名前は、"
+          ],
+          [
+            "茶葉の色ではなく",
+            "ちゃばの色ではなく、"
+          ],
+          [
+            "淹れたお茶の色から",
+            "いれたお茶の色から"
+          ],
+          [
+            "付けられました。",
+            "つけられました。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "color",
+      "lines": [
+        [
+          [
+            "マグカップでは",
+            "マグカップでは"
+          ],
+          [
+            "茶色っぽく見えても",
+            "茶色っぽく見えても、"
+          ],
+          [
+            "白いカップに注いで",
+            "白いカップに注いで"
+          ],
+          [
+            "光にかざすと",
+            "光にかざすと、"
+          ],
+          [
+            "透きとおった",
+            "すきとおった"
+          ],
+          [
+            "紅色なんです。",
+            "べにいろなんです。"
+          ]
+        ],
+        [
+          [
+            "この色を",
+            "この色を、"
+          ],
+          [
+            "「水色」と",
+            "すいしょく、と"
+          ],
+          [
+            "呼びます。",
+            "呼びます。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "chem",
+      "lines": [
+        [
+          [
+            "赤い色のもとは",
+            "赤い色のもとは、"
+          ],
+          [
+            "発酵で生まれる",
+            "発酵で生まれる"
+          ],
+          [
+            "テアフラビン",
+            "テアフラビン"
+          ],
+          [
+            "という成分です。",
+            "という成分です。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "english",
+      "lines": [
+        [
+          [
+            "いっぽう英語では",
+            "いっぽう英語では、"
+          ],
+          [
+            "黒っぽい茶葉の",
+            "黒っぽいちゃばの"
+          ],
+          [
+            "見た目から",
+            "見た目から、"
+          ],
+          [
+            "ブラックティーと",
+            "ブラックティーと"
+          ],
+          [
+            "呼ばれます。",
+            "呼ばれます。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "china",
+      "lines": [
+        [
+          [
+            "中国で「黒茶」は",
+            "中国で、くろちゃといえば、"
+          ],
+          [
+            "プーアル茶など",
+            "プーアル茶など、"
+          ],
+          [
+            "別のお茶なんです。",
+            "べつのお茶なんです。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "outro",
+      "lines": [
+        [
+          [
+            "次に飲むときは",
+            "次に飲むときは、"
+          ],
+          [
+            "白いカップで",
+            "白いカップで、"
+          ],
+          [
+            "紅い色を",
+            "あかい色を"
+          ],
+          [
+            "確かめてみてください。",
+            "たしかめてみてください。"
+          ]
+        ]
+      ]
+    }
+  ],
+  "spelling": {
+    "紅": "くれない",
+    "茶葉": "ちゃば",
+    "淹れた": "いれた",
+    "水色": "すいしょく",
+    "黒茶": "くろちゃ",
+    "紅色": "べにいろ",
+    "別の": "べつの",
+    "衰色": "すいしょく",
+    "入れた": "いれた",
+    "時": "とき"
+  },
+  "parts": [
+    [
+      "hook",
+      "name",
+      "color",
+      "chem",
+      "english"
+    ],
+    [
+      "china"
+    ],
+    [
+      "outro"
+    ]
+  ]
+}

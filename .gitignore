@@ -1,0 +1,25 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies and caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+
+# Generated renders and local speech models
+/check/
+/models/
+/remotion-composer/out/
+/remotion-composer/build/
+/remotion-composer/dist/
+
+# OS and runtime files
+.DS_Store
+*.log

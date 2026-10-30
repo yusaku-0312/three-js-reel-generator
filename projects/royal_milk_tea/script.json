@@ -1,0 +1,269 @@
+{
+  "title": "紅茶の雑学 ロイヤルミルクティーとミルクティーの違い",
+  "voice_name": "Otani - Inviting, Clear and Measured",
+  "voice_id": "3JDquces8E8bkmvbh6Bc",
+  "model_id": "eleven_v4",
+  "model_name": "Eleven v4",
+  "tag": "[narrative]",
+  "speed": 1.2,
+  "note": "紅茶の雑学: milk tea (brew tea, add milk after) vs royal milk tea (leaves simmered in milk, little water). Name is Japanese-coined (和製英語), c. 1965 Kyoto tea shop — hedged. Readings: 茶葉→ちゃば, 淹れた→いれた, 別物→べつもの, 1965→せんきゅうひゃくろくじゅうご.",
+  "sources": [
+    "macaro-ni.jp/90473: royal milk tea = tea and milk simmered together in a small pot, milk about half; originated at a Japanese tea room around Showa 40 (1965); no drink of that name in the UK (和製英語)",
+    "Sir Thomas LIPTON press release (koubo.jp/press-release/prtimes/c79035_r102): Tea House Lipton Sanjo main store (Kyoto) is known as the first shop in Japan to serve royal milk tea, 1965 — shop's own claim → hedged 「〜とも言われます」",
+    "justonecookbook.com/royal-milk-tea, sudachirecipes.com/royal-milk-tea: unlike regular milk tea, all ingredients are simmered together; similar to masala chai without spices",
+    "delishkitchen.tv/articles/246, macaro-ni.jp/66911: open the leaves with a little hot water first (milk casein coats the leaves and blocks extraction), heat the milk just short of boiling"
+  ],
+  "scenes": [
+    {
+      "id": "hook",
+      "lines": [
+        [
+          [
+            "ロイヤルミルクティー",
+            "ロイヤルミルクティー"
+          ],
+          [
+            "とミルクティー",
+            "とミルクティー、"
+          ],
+          [
+            "実は",
+            "実は、"
+          ],
+          [
+            "全くの別物なんです。",
+            "まったくのべつものなんです。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "milk",
+      "lines": [
+        [
+          [
+            "ふつうのミルクティーは",
+            "ふつうのミルクティーは、"
+          ],
+          [
+            "淹れた紅茶に",
+            "いれた紅茶に、"
+          ],
+          [
+            "あとから",
+            "あとから"
+          ],
+          [
+            "ミルクを注ぐだけ。",
+            "ミルクを注ぐだけ。"
+          ]
+        ],
+        [
+          [
+            "紅茶の香りが",
+            "紅茶の香りが"
+          ],
+          [
+            "すっきり立つ",
+            "すっきり立つ"
+          ],
+          [
+            "飲み方です。",
+            "飲み方です。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "royal",
+      "lines": [
+        [
+          [
+            "いっぽう",
+            "いっぽう、"
+          ],
+          [
+            "ロイヤルミルクティーは",
+            "ロイヤルミルクティーは、"
+          ],
+          [
+            "茶葉を",
+            "ちゃばを"
+          ],
+          [
+            "牛乳で",
+            "牛乳で"
+          ],
+          [
+            "じっくり煮出します。",
+            "じっくり煮出します。"
+          ]
+        ],
+        [
+          [
+            "お湯は少しだけ",
+            "お湯は少しだけ、"
+          ],
+          [
+            "牛乳たっぷりなので",
+            "牛乳たっぷりなので、"
+          ],
+          [
+            "コクが深く",
+            "コクが深く、"
+          ],
+          [
+            "まろやかに",
+            "まろやかに"
+          ],
+          [
+            "なるんです。",
+            "なるんです。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "origin",
+      "lines": [
+        [
+          [
+            "しかもこの名前",
+            "しかもこの名前、"
+          ],
+          [
+            "日本生まれの",
+            "日本生まれの"
+          ],
+          [
+            "和製英語。",
+            "和製英語。"
+          ]
+        ],
+        [
+          [
+            "イギリスには",
+            "イギリスには"
+          ],
+          [
+            "同じ名前の",
+            "同じ名前の"
+          ],
+          [
+            "飲み物は",
+            "飲み物は"
+          ],
+          [
+            "ないんです。",
+            "ないんです。"
+          ]
+        ],
+        [
+          [
+            "1965年ごろ",
+            "せんきゅうひゃくろくじゅうごねんごろ、"
+          ],
+          [
+            "京都の紅茶店が",
+            "京都の紅茶店が"
+          ],
+          [
+            "出したのが",
+            "出したのが"
+          ],
+          [
+            "始まりとも",
+            "始まりとも"
+          ],
+          [
+            "言われます。",
+            "言われます。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "tip",
+      "lines": [
+        [
+          [
+            "おいしく作るコツは",
+            "おいしく作るコツは、"
+          ],
+          [
+            "先に少しのお湯で",
+            "先に少しのお湯で"
+          ],
+          [
+            "茶葉を開くこと。",
+            "ちゃばを開くこと。"
+          ]
+        ],
+        [
+          [
+            "牛乳を入れたら",
+            "牛乳を入れたら、"
+          ],
+          [
+            "沸騰する手前で",
+            "沸騰する手前で"
+          ],
+          [
+            "火を止めます。",
+            "火を止めます。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "outro",
+      "lines": [
+        [
+          [
+            "違いを知って",
+            "違いを知って、"
+          ],
+          [
+            "その日の気分で",
+            "その日の気分で"
+          ],
+          [
+            "飲み分けてみて",
+            "飲み分けてみて"
+          ],
+          [
+            "ください。",
+            "ください。"
+          ]
+        ]
+      ]
+    }
+  ],
+  "spelling": {
+    "茶葉": "ちゃば",
+    "淹れた": "いれた",
+    "別物": "べつもの",
+    "全く": "まったく",
+    "1965年": "せんきゅうひゃくろくじゅうごねん",
+    "千九百六十五年": "せんきゅうひゃくろくじゅうごねん",
+    "一方": "いっぽう",
+    "普通": "ふつう",
+    "入れた": "いれた",
+    "後から": "あとから",
+    "美味しく": "おいしく",
+    "1965年頃": "せんきゅうひゃくろくじゅうごねんごろ",
+    "頃": "ごろ"
+  },
+  "parts": [
+    [
+      "hook",
+      "milk",
+      "royal"
+    ],
+    [
+      "origin",
+      "tip",
+      "outro"
+    ]
+  ]
+}

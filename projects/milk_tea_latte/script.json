@@ -1,0 +1,228 @@
+{
+  "title": "紅茶の雑学 ミルクティーとティーラテの違い",
+  "voice_name": "Otani - Inviting, Clear and Measured",
+  "voice_id": "3JDquces8E8bkmvbh6Bc",
+  "model_id": "eleven_v4",
+  "model_name": "Eleven v4",
+  "tag": "[narrative]",
+  "speed": 1.2,
+  "note": "紅茶の雑学 #6: no fixed legal definition; in cafés a tea latte = strongly brewed tea + steamed milk (lots) + milk foam on top, the tea version of a caffè latte (latte = Italian for milk); milk tea = brewed tea with a little milk added afterwards, tea is the star. Starbucks tea latte ≈ half hot water / half milk. Readings: 淹れた→いれた, 濃く→こく, 牛乳→ぎゅうにゅう.",
+  "sources": [
+    "macaro-ni.jp/178148 (Kirin 午後の紅茶 TEA LATTE): a tea latte pairs strongly brewed tea with milk like a café latte; uses about twice the leaves of 午後の紅茶 ミルクティー; tea flavour stays, clean finish vs milk tea's soft sweetness",
+    "walkerplus.com/article/1173769 (Starbucks): tea latte = tea extracted with hot water + steamed milk (steamed with air for a soft mouthfeel, milk sweetness), finished with foamed milk on top",
+    "ichioshi.smt.docomo.ne.jp/articles/common/492683 (Starbucks tea lattes): tea latte made with hot water and milk half and half; 'all milk' customisation",
+    "weblio.jp/content/Milk+tea: in Japan milk tea usually means black tea with milk added",
+    "latte = Italian 'milk' (caffè latte = coffee with milk) — general knowledge",
+    "No official definition exists → hedged with 「お店によっては」 and the hook avoids claiming a rule"
+  ],
+  "scenes": [
+    {
+      "id": "hook",
+      "lines": [
+        [
+          [
+            "ミルクティーと",
+            "ミルクティーと、"
+          ],
+          [
+            "ティーラテ、",
+            "ティーラテ。"
+          ],
+          [
+            "何が違うか",
+            "なにがちがうか、"
+          ],
+          [
+            "知っていますか？",
+            "知っていますか？"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "latte",
+      "lines": [
+        [
+          [
+            "ラテは",
+            "ラテは、"
+          ],
+          [
+            "イタリア語で",
+            "イタリア語で、"
+          ],
+          [
+            "「牛乳」のこと。",
+            "ぎゅうにゅう、のこと。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "milk",
+      "lines": [
+        [
+          [
+            "ミルクティーは",
+            "ミルクティーは、"
+          ],
+          [
+            "淹れた紅茶に",
+            "いれた紅茶に、"
+          ],
+          [
+            "ミルクを少し",
+            "ミルクをすこし、"
+          ],
+          [
+            "加えたもの。",
+            "くわえたもの。"
+          ]
+        ],
+        [
+          [
+            "主役は",
+            "主役は、"
+          ],
+          [
+            "あくまで紅茶です。",
+            "あくまで紅茶です。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "tealatte",
+      "lines": [
+        [
+          [
+            "いっぽう",
+            "いっぽう、"
+          ],
+          [
+            "ティーラテは",
+            "ティーラテは、"
+          ],
+          [
+            "濃く淹れた紅茶に",
+            "こくいれた紅茶に、"
+          ],
+          [
+            "蒸気で温めた",
+            "じょうきであたためた"
+          ],
+          [
+            "ミルクをたっぷり。",
+            "ミルクを、たっぷり。"
+          ]
+        ],
+        [
+          [
+            "最後に",
+            "さいごに、"
+          ],
+          [
+            "ふわふわの泡を",
+            "ふわふわのあわを"
+          ],
+          [
+            "のせます。",
+            "のせます。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "ratio",
+      "lines": [
+        [
+          [
+            "お店によっては",
+            "お店によっては、"
+          ],
+          [
+            "紅茶とミルクが",
+            "紅茶とミルクが"
+          ],
+          [
+            "半分ずつ",
+            "はんぶんずつ、"
+          ],
+          [
+            "ということも。",
+            "ということも。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "taste",
+      "lines": [
+        [
+          [
+            "紅茶の香りなら",
+            "紅茶の香りなら、"
+          ],
+          [
+            "ミルクティー、",
+            "ミルクティー。"
+          ],
+          [
+            "まろやかさなら",
+            "まろやかさなら、"
+          ],
+          [
+            "ティーラテです。",
+            "ティーラテです。"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "outro",
+      "lines": [
+        [
+          [
+            "その日の気分で",
+            "その日の気分で、"
+          ],
+          [
+            "選んでみてください。",
+            "えらんでみてください。"
+          ]
+        ]
+      ]
+    }
+  ],
+  "spelling": {
+    "淹れた": "いれた",
+    "入れた": "いれた",
+    "濃く": "こく",
+    "牛乳": "ぎゅうにゅう",
+    "少し": "すこし",
+    "加えた": "くわえた",
+    "蒸気": "じょうき",
+    "温めた": "あたためた",
+    "最後": "さいご",
+    "泡": "あわ",
+    "半分": "はんぶん",
+    "選んで": "えらんで",
+    "何": "なに",
+    "違う": "ちがう",
+    "一方": "いっぽう",
+    "ラッテ": "ラテ"
+  },
+  "parts": [
+    [
+      "hook",
+      "latte",
+      "milk"
+    ],
+    [
+      "tealatte",
+      "ratio",
+      "taste",
+      "outro"
+    ]
+  ]
+}

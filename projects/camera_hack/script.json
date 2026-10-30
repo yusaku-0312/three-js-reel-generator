@@ -1,0 +1,57 @@
+{
+  "title": "見守りカメラのハッキングとAIの自己複製",
+  "voice_name": "Otani - Inviting, Clear and Measured",
+  "voice_id": "3JDquces8E8bkmvbh6Bc",
+  "model_id": "eleven_v4",
+  "model_name": "Eleven v4",
+  "tag": "[narrative]",
+  "speed": 1.2,
+  "pattern": "ai",
+  "note": "Narration text is the user's own (2026-10-27), kept word for word; two-sentence lines split into one line per sentence. Series band 親子で守る AI防犯. Readings fixed in tts: AI→エーアイ, 盗み見→ぬすみ見, 新たな→あらたな, 一台→いちだい, 入り込む→はいり込む, 他の→ほかの.",
+  "sources": [
+    "Anthropic Frontier Red Team (William Zhou, Daniel Freeman), 2026-10-12, 'AI models may be capable of self-replicating without access to a datacenter': small open-weight models may be months from self-replicating on commercial IoT devices (smart ovens, off-brand Android TV boxes); a 26B model was run across 15 networked TV boxes; no working rogue replicator demonstrated; a replicator would be hard to shut down because there is no central host",
+    "Al Jazeera 2026-10-13 'AI could self-replicate on home devices within months, Anthropic says' (aljazeera.com/economy/2026/10/13/...)",
+    "ABC News / Good Morning America 2026-10 'Anthropic warns AI models could soon copy themselves in small devices'; Unite.AI coverage (past IoT botnets such as Mirai spread through default passwords)",
+    "General home-camera guidance (IPA / NISC / manufacturer guides): keep camera firmware updated (fixes vulnerabilities), use a long unique password, turn on two-step verification"
+  ],
+  "spelling": {
+    "AI": "エーアイ",
+    "盗み見": "ぬすみ見",
+    "新たな": "あらたな",
+    "一台": "いちだい",
+    "入り込む": "はいり込む",
+    "他の": "ほかの",
+    "子供": "子ども"
+  },
+  "parts": [["hook", "old", "anthropic", "spread"], ["update", "password", "cta"]],
+  "scenes": [
+    {"id": "hook", "lines": [
+      [["もし見守りカメラが", "もし見守りカメラが"], ["ハッキングされて", "ハッキングされて、"], ["映像まで", "映像まで"], ["盗み見られる", "ぬすみ見られる"], ["ようになったら", "ようになったら、"], ["自分が子どもを", "自分が子どもを"], ["見守っている間に", "見守っている間に、"], ["知らない誰かも", "知らない誰かも、"], ["寝室の様子を", "寝室の様子を"], ["見ているかも", "見ているかも"], ["しれません。", "しれません。"]]
+    ]},
+    {"id": "old", "lines": [
+      [["カメラの", "カメラの"], ["ハッキングによる", "ハッキングによる"], ["盗み見は", "ぬすみ見は、"], ["以前からある", "以前からある"], ["危険です。", "危険です。"]],
+      [["そこに今", "そこに今、"], ["新たな懸念が", "あらたな懸念が"], ["出てきています。", "出てきています。"]]
+    ]},
+    {"id": "anthropic", "lines": [
+      [["AIの開発会社", "エーアイの開発会社、"], ["アンソロピックは", "アンソロピックは、"], ["ネットにつながる", "ネットにつながる"], ["機器の中で", "機器の中で"], ["AIが動き", "エーアイが動き、"], ["自分のコピーを", "自分のコピーを"], ["別の機器へ", "別の機器へ"], ["広げる可能性を", "広げる可能性を"], ["示しました。", "示しました。"]]
+    ]},
+    {"id": "spread", "lines": [
+      [["もし、こうしたAIが", "もし、こうしたエーアイが"], ["見守りカメラの", "見守りカメラの"], ["ハッキングにも", "ハッキングにも"], ["悪用され", "悪用され、"], ["ほかの機器へ", "ほかの機器へ"], ["コピーが広がったら。", "コピーが広がったら。"]],
+      [["カメラ一台の", "カメラいちだいの"], ["電源を切っても", "電源を切っても、"], ["AIは別の機器で", "エーアイは別の機器で"], ["動き続ける", "動き続ける"], ["おそれがあります。", "おそれがあります。"]]
+    ]},
+    {"id": "update", "lines": [
+      [["家庭でできる", "家庭でできる"], ["備えとして", "備えとして、"], ["まず、メーカーの", "まず、メーカーの"], ["公式アプリや", "公式アプリや"], ["説明書で", "説明書で、"], ["カメラ本体の更新を", "カメラ本体の更新を"], ["確認しましょう。", "確認しましょう。"]],
+      [["更新には", "更新には、"], ["ハッキングに", "ハッキングに"], ["使われる弱点を", "使われる弱点を"], ["直す役割があります。", "直す役割があります。"]],
+      [["スマホのアプリ", "スマホのアプリ"], ["だけでなく", "だけでなく、"], ["カメラ本体も", "カメラ本体も"], ["確認することが", "確認することが"], ["大切です。", "大切です。"]]
+    ]},
+    {"id": "password", "lines": [
+      [["映像を見るための", "映像を見るための"], ["アカウントには", "アカウントには、"], ["ほかで使っていない", "ほかで使っていない"], ["長いパスワードを。", "長いパスワードを。"]],
+      [["パスワードに加えて", "パスワードに加えて"], ["確認コードも", "確認コードも"], ["必要にする", "必要にする"], ["設定があれば", "設定があれば、"], ["有効にしてください。", "有効にしてください。"]],
+      [["パスワードが", "パスワードが"], ["知られてしまった", "知られてしまった"], ["場合にも", "場合にも、"], ["他人が入り込むのを", "他人がはいり込むのを"], ["防ぐ助けに", "防ぐ助けに"], ["なります。", "なります。"]]
+    ]},
+    {"id": "cta", "lines": [
+      [["子どもを守る", "子どもを守る"], ["AIリテラシーを", "エーアイリテラシーを"], ["知りたいパパ・ママは", "知りたいパパ・ママは、"], ["プロフィールから。", "プロフィールから。"]],
+      [["他のリールも", "ほかのリールも"], ["チェックして", "チェックして、"], ["フォローをぜひ！", "フォローをぜひ！"]]
+    ]}
+  ]
+}
